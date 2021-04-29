@@ -6,7 +6,7 @@
         android:allowBackup="true"
         android:icon="@drawable/catprofile"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/ic_intenicon"
         android:supportsRtl="true"
         android:theme="@style/Theme.CatLogin">
         <activity android:name=".RegActivity"></activity>
